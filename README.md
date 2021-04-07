@@ -24,3 +24,24 @@ Full responsive dan terlihat memukau pada desktop, tablet, atau perangkat selula
 17. Management Users
 18. Custom Site Information
 19. Custom About Information
+## Screenshot
+Blog
+![Screenshot](front-end.png)
+Login Page
+![Screenshot](login.png)
+Dashboard
+![Screenshot](dashboard.png)
+Post Setting
+![Screenshot](post.png)
+Inbox
+![Screenshot](inbox.png)
+Comments
+![Screenshot](coment.png)
+Subscribers
+![Screenshot](subs.png)
+Testimonials
+![Screenshot](testi.png)
+Users
+![Screenshot](user.png)
+Setting Blog
+![Screenshot](setting.png)
